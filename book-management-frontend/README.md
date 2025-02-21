@@ -20,9 +20,9 @@ This template provides a minimal setup to get React working in Vite with **Hot M
 
 ### Installation
 
-1. Clone the repository (if applicable):
+1. Clone the repository:
    ```sh
-   git clone <your-repository-url>
+   git clone https://github.com/SargsyanGegham/book-managment
    cd book-management-frontend
 
 2. Install dependencies:
