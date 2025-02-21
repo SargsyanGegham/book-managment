@@ -21,7 +21,7 @@ It provides CRUD operations for managing books in a SQLite database.
 
 1. Clone the repository:
    ```sh
-   git clone <your-repository-url>
+   git clone https://github.com/SargsyanGegham/book-managment
    cd book-management-backend
 
 2. Install dependencies:
